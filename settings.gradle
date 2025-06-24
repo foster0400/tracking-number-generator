@@ -1,0 +1,7 @@
+rootProject.name = 'teleport-project'
+include 'controller'
+include 'application'
+include 'dto'
+include 'service'
+include 'validation'
+
